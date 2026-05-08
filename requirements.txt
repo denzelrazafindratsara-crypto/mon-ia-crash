@@ -1,5 +1,6 @@
-fastapi
-uvicorn
-tensorflow-cpu
-numpy
+flask
+flask-cors
+joblib
+scikit-learn
 pandas
+numpy
